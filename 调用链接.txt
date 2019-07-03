@@ -1,0 +1,5 @@
+http://localhost/PiTrans.dll/tts?sn=1234567890123456&sid=1400000000000000BCA1D825E8DC6AB54C6BBA099056352CCB9C0B40753DA19151B256B9A82210D1&tt=通知要求，各影剧院、歌舞娱乐场所、游艺娱乐场所、棋牌室等场所以及文化馆（宫、站）、社区文化活动中心停止一切演出、娱乐、放映、棋牌等相关活动；
+
+NGII20190511TTSKEY,(Masterkey)对secondkey进行两次加密得到kdb.whf中的第二行密文，解密时进行两次解密
+USER_TTS_KEY20190511（Secondkey），Masterkey对secondkey进行的一次加密法给用户作为安全key
+
